@@ -22,6 +22,12 @@ The data is fetch from the API in [`jsonplaceholder.typicode.com`](https://jsonp
     npx expo start
    ```
 
+3. Run tests
+
+   ```bash
+    npm run test
+   ```
+
 ## Info
 
 State management with react context to store users and don't make more request than neccessary
